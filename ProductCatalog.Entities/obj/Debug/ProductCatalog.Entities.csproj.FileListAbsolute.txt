@@ -1,0 +1,5 @@
+D:\OneDrive\Articles\WebAPI2_Series\1\Code\ProductCatalog.DataModel\ProductCatalog.Entities\bin\Debug\ProductCatalog.Entities.dll
+D:\OneDrive\Articles\WebAPI2_Series\1\Code\ProductCatalog.DataModel\ProductCatalog.Entities\bin\Debug\ProductCatalog.Entities.pdb
+D:\OneDrive\Articles\WebAPI2_Series\1\Code\ProductCatalog.DataModel\ProductCatalog.Entities\obj\Debug\ProductCatalog.Entities.dll
+D:\OneDrive\Articles\WebAPI2_Series\1\Code\ProductCatalog.DataModel\ProductCatalog.Entities\obj\Debug\ProductCatalog.Entities.pdb
+D:\OneDrive\Articles\WebAPI2_Series\1\Code\ProductCatalog.DataModel\ProductCatalog.Entities\obj\Debug\ProductCatalog.Entities.csprojResolveAssemblyReference.cache

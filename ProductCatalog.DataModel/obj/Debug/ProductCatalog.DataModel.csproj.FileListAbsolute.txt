@@ -1,0 +1,12 @@
+D:\OneDrive\Articles\WebAPI2_Series\1\Code\ProductCatalog.DataModel\ProductCatalog.DataModel\bin\Debug\ProductCatalog.DataModel.dll.config
+D:\OneDrive\Articles\WebAPI2_Series\1\Code\ProductCatalog.DataModel\ProductCatalog.DataModel\bin\Debug\ProductCatalog.DataModel.dll
+D:\OneDrive\Articles\WebAPI2_Series\1\Code\ProductCatalog.DataModel\ProductCatalog.DataModel\bin\Debug\ProductCatalog.DataModel.pdb
+D:\OneDrive\Articles\WebAPI2_Series\1\Code\ProductCatalog.DataModel\ProductCatalog.DataModel\bin\Debug\EntityFramework.dll
+D:\OneDrive\Articles\WebAPI2_Series\1\Code\ProductCatalog.DataModel\ProductCatalog.DataModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\OneDrive\Articles\WebAPI2_Series\1\Code\ProductCatalog.DataModel\ProductCatalog.DataModel\bin\Debug\ProductCatalog.Entities.dll
+D:\OneDrive\Articles\WebAPI2_Series\1\Code\ProductCatalog.DataModel\ProductCatalog.DataModel\bin\Debug\ProductCatalog.Entities.pdb
+D:\OneDrive\Articles\WebAPI2_Series\1\Code\ProductCatalog.DataModel\ProductCatalog.DataModel\bin\Debug\EntityFramework.xml
+D:\OneDrive\Articles\WebAPI2_Series\1\Code\ProductCatalog.DataModel\ProductCatalog.DataModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\OneDrive\Articles\WebAPI2_Series\1\Code\ProductCatalog.DataModel\ProductCatalog.DataModel\obj\Debug\ProductCatalog.DataModel.csprojResolveAssemblyReference.cache
+D:\OneDrive\Articles\WebAPI2_Series\1\Code\ProductCatalog.DataModel\ProductCatalog.DataModel\obj\Debug\ProductCatalog.DataModel.dll
+D:\OneDrive\Articles\WebAPI2_Series\1\Code\ProductCatalog.DataModel\ProductCatalog.DataModel\obj\Debug\ProductCatalog.DataModel.pdb
